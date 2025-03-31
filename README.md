@@ -10,17 +10,16 @@ I've just graduated from a cybersecurity bootcamp, learning both offensive and d
 
 ## 💻 Cybersecurity Projects  
 
-### **System Hardening Project** | *(URL to repo coming soon)*  
-- **Summary:** This project focused on securing an Ubuntu 24.04 Linux system for a fictional company. I performed tasks such as auditing user accounts and groups, enforcing password and sudo policies, securing SSH access, removing insecure services, managing logs, installing file integrity checkers, and writing Bash scripts to automate hardening configurations.  
+### **Pi-hole Network Security Tool Project** | [YouTube Demo](http://www.youtube.com/watch?v=3X0b2LEVQlQ)  
+- **Summary:** Led the configuration and demonstration of a Raspberry Pi Zero 2 W running Pi-hole, a DNS-level ad blocker that enhances network security and performance. Created a tutorial to walk users through OS loading, installation, configuration, and customization (including blocklists and VPN integration). Demonstrated real-time ad blocking and dashboard insights across multiple devices.  
 - **Key Components:**
-  - User & Group Auditing
-  - Password Policy Enforcement
-  - SSH & Service Hardening
-  - Logging Configuration (journald, logrotate)
-  - Custom Bash Hardening Scripts  
-- **Key Skills:** Linux system administration, shell scripting, secure configuration, firewall setup, file permission management  
-- **Role:** Sole contributor  
-- **Tools:** Bash, Ubuntu 24.04, UFW, Tripwire  
+  - DNS Sinkhole with Pi-hole
+  - Raspberry Pi Setup and Optimization
+  - Blocklist Customization for Privacy & Threat Defense
+  - VPN Integration with WireGuard  
+- **Key Skills:** DNS filtering, network security, Raspberry Pi administration, CLI setup, remote network protection  
+- **Role:** Group contributor and video presenter  
+- **Tools:** Raspberry Pi Zero 2 W, Pi-hole, Linux CLI, WireGuard VPN
 
 ---
 
@@ -37,16 +36,17 @@ I've just graduated from a cybersecurity bootcamp, learning both offensive and d
 
 ---
 
-### **Pi-hole Network Security Tool Project** | [YouTube Demo](http://www.youtube.com/watch?v=3X0b2LEVQlQ)  
-- **Summary:** Led the configuration and demonstration of a Raspberry Pi Zero 2 W running Pi-hole, a DNS-level ad blocker that enhances network security and performance. Created a tutorial to walk users through OS loading, installation, configuration, and customization (including blocklists and VPN integration). Demonstrated real-time ad blocking and dashboard insights across multiple devices.  
+### **System Hardening Project** | *(URL to repo coming soon)*  
+- **Summary:** This project focused on securing an Ubuntu 24.04 Linux system for a fictional company. I performed tasks such as auditing user accounts and groups, enforcing password and sudo policies, securing SSH access, removing insecure services, managing logs, installing file integrity checkers, and writing Bash scripts to automate hardening configurations.  
 - **Key Components:**
-  - DNS Sinkhole with Pi-hole
-  - Raspberry Pi Setup and Optimization
-  - Blocklist Customization for Privacy & Threat Defense
-  - VPN Integration with WireGuard  
-- **Key Skills:** DNS filtering, network security, Raspberry Pi administration, CLI setup, remote network protection  
-- **Role:** Group contributor and video presenter  
-- **Tools:** Raspberry Pi Zero 2 W, Pi-hole, Linux CLI, WireGuard VPN  
+  - User & Group Auditing
+  - Password Policy Enforcement
+  - SSH & Service Hardening
+  - Logging Configuration (journald, logrotate)
+  - Custom Bash Hardening Scripts  
+- **Key Skills:** Linux system administration, shell scripting, secure configuration, firewall setup, file permission management  
+- **Role:** Sole contributor  
+- **Tools:** Bash, Ubuntu 24.04, UFW, Tripwire  
 
 ---
 
