@@ -1,10 +1,10 @@
 # Dylan Maraist
 
-## 🔐 Cybersecurity Student | Linux Enthusiast | Security Tools Builder  
+## 🔐 Cybersecurity Professional | Linux Enthusiast (Arch BTW) | Security Tools Builder  
 
 ## 🎯 Learn. Break. Defend.  
 
-I'm currently enrolled in a cybersecurity bootcamp, learning both offensive and defensive security through hands-on labs and real-world projects. From system hardening and penetration testing to SIEM log analysis and network-wide DNS filtering, I’ve built up a strong toolkit for defending modern infrastructure. My focus is on practical skills, scripting, and diving into tools used in professional environments.
+I've just graduated from a cybersecurity bootcamp, learning both offensive and defensive security through hands-on labs and real-world projects. From system hardening and penetration testing to SIEM log analysis and network-wide DNS filtering, I’ve built up a strong toolkit for defending modern infrastructure. My focus is on practical skills, scripting, and diving into tools used in professional environments.
 
 ---
 
