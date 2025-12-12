@@ -19,7 +19,6 @@ I've just graduated from a cybersecurity bootcamp, learning both offensive and d
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Dmillyion" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/dylan-maraist/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
 
 <b>Top Repositories</b>
 
@@ -31,9 +30,7 @@ I've just graduated from a cybersecurity bootcamp, learning both offensive and d
 
 ---
 
-
-
-## 💻 Cybersecurity Projects  
+### 💻 Cybersecurity Projects  
 
 ### **Pi-hole Network Security Tool Project** | [YouTube Demo](http://www.youtube.com/watch?v=3X0b2LEVQlQ)  
 - **Summary:** Led the configuration and demonstration of a Raspberry Pi Zero 2 W running Pi-hole, a DNS-level ad blocker that enhances network security and performance. Created a tutorial to walk users through OS loading, installation, configuration, and customization (including blocklists and VPN integration). Demonstrated real-time ad blocking and dashboard insights across multiple devices.  
