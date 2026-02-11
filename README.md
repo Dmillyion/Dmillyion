@@ -1,14 +1,14 @@
 # Hi 👋 I'm Dylan Maraist  
 ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## 👨‍💻 IT & Cybersecurity Student
+## 👨‍💻 IT Professional
 
 I recently graduated from a cybersecurity bootcamp where I gained hands-on experience in both **offensive and defensive security**. My work spans **system hardening, penetration testing, SIEM log analysis, and network-wide DNS filtering**. I focus on practical skills, scripting, and real-world tools used in professional IT and security environments.
 
 - 🌍 Based in **Denver**
 - 🖥️ Portfolio: [LinkedIn](https://www.linkedin.com/in/dylan-maraist/)
 - ✉️ Contact: [dylan.maraist@gmail.com](mailto:dylan.maraist@gmail.com)
-- 🚀 Currently working on **Microsoft 365 Administrator** & **CompTIA Security+**
+- 🚀 Currently working on **Microsoft 365 Administrator**
 - 🧠 Currently learning **IT Help Desk fundamentals**
 
 ---
