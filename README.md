@@ -87,6 +87,7 @@ Led the configuration and demonstration of a Raspberry Pi Zero 2 W running Pi-ho
 ---
 
 ### 🔹 SIEM Log Analysis Project *(Repo coming soon)*
+[Slides Link](https://docs.google.com/presentation/d/1GrYVwuz9aueEXMJ7AJCw8Ne1uNI17c6WZL5Go2Cng98/edit?usp=sharing)
 
 **Summary:**  
 Simulated a SOC environment using Splunk to ingest and analyze Windows Server and Apache logs, build dashboards, and generate alerts for suspicious activity.
@@ -97,6 +98,7 @@ Simulated a SOC environment using Splunk to ingest and analyze Windows Server an
 ---
 
 ### 🔹 Linux System Hardening Project *(Repo coming soon)*
+[Docs Link](https://docs.google.com/document/d/1H1F2eSbhfMSuwWz8F8MKPyd-LZzWorT5COgn7Cyqnd4/edit?usp=sharing)
 
 **Summary:**  
 Hardened an Ubuntu 24.04 system by enforcing user policies, securing SSH, configuring logging, and writing automation scripts.
@@ -107,6 +109,7 @@ Hardened an Ubuntu 24.04 system by enforcing user policies, securing SSH, config
 ---
 
 ### 🔹 Penetration Testing Project *(Repo coming soon)*
+[Docs Link](https://docs.google.com/document/d/1GHcUaOfBlSFrs1JTmYZNeQcwctAgqCEmVIR9-93498I/edit?usp=sharing)
 
 **Summary:**  
 Performed a black-box penetration test identifying vulnerabilities across web apps, Linux, and Windows systems, delivering a professional remediation report.
