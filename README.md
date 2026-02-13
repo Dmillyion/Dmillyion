@@ -69,6 +69,7 @@ I recently graduated from a cybersecurity bootcamp where I gained hands-on exper
 
 ### 🔹 Pi-hole Network Security Tool Project  
 [YouTube Demo](https://www.youtube.com/watch?v=3X0b2LEVQlQ)
+[Slides Link](https://docs.google.com/presentation/d/1pk301ZcWqWJC10pDIZL3c664pSgrEBzU4TJLrD3wtOk/edit?usp=sharing)
 
 **Summary:**  
 Led the configuration and demonstration of a Raspberry Pi Zero 2 W running Pi-hole, a DNS-level ad blocker that improves security, privacy, and network performance.
